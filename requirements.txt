@@ -2,3 +2,7 @@ spotipy
 pandas
 numpy
 torch
+seaborn
+plotly
+matplotlib
+scikit-learn
